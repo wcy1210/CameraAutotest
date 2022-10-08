@@ -10,7 +10,7 @@ class Config_all:
         self.config = self.get_config()
 
     def get_config(self):
-
+        return True
 
     def get_defalt_yaml(self):
         print(self.report_path)
